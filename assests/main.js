@@ -25,6 +25,16 @@ const musics =[
     {
         id: 1,
         number: '02',
+        file:'waitingforyou.mp3',
+        title: 'Waiting For You',
+        artist: 'Mono',
+        time: '4:25',
+        active:false,
+
+    },
+    {
+        id: 2,
+        number: '03',
         file: 'catena.mp3',
         title: 'Có ai thương em như anh',
         artist: 'Tóc Tiên',
@@ -33,8 +43,8 @@ const musics =[
 
     },
     {
-        id: 2,
-        number: '03',
+        id: 3,
+        number: '04',
         file: 'edcnm.mp3',
         title: 'Em đã có người mới',
         artist: 'Tóc Tiên',
@@ -43,8 +53,8 @@ const musics =[
 
     },
     {
-        id: 3,
-        number: '04',
+        id: 4,
+        number: '05',
         file: 'vdcc.mp3',
         title: 'Vũ điệu cồng chiêng',
         artist: 'Tóc Tiên',
@@ -53,12 +63,32 @@ const musics =[
 
     },
     {
-        id: 4,
-        number: '05',
+        id: 5,
+        number: '06',
         file: 'ttbdty.mp3',
         title: 'Trên tình bạn dưới tình yêu',
         artist: 'Min',
         time: '3:19',
+        active:false,
+
+    },
+    {
+        id: 6,
+        number: '07',
+        file: 'yeunguoicouocmo.mp3',
+        title: 'Yêu người có ước mơ',
+        artist: 'Bui Truong Linh',
+        time: '4:35',
+        active:false,
+
+    },
+    {
+        id: 7,
+        number: '08',
+        file:'saocungduoc.mp3',
+        title: 'Sao cũng được',
+        artist: 'Thành Đạt',
+        time: '6:01',
         active:false,
 
     },
